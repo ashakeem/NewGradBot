@@ -1,0 +1,60 @@
+
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+venv.bak/
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+*.rej
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+*.tmproj
+*.tm_properties
+*.tmTheme
+*.tmCommand
+*.tmSnippet
+*.tmLanguage
+*.tmPreferences
+*.tmMacro
+*.tmBundle
+*.tmColorScheme
+*.tmGrammar
+*.tmSyntax
+*.tmTheme
+*.tmCommand
+*.tmSnippet
+*.tmLanguage
+*.tmPreferences
+*.tmMacro
+*.tmBundle
+*.tmColorScheme
+*.tmGrammar
+*.tmSyntax
